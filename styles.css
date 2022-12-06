@@ -1,2 +1,63 @@
 
 /* Your CSS Code here. */
+*{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.holder{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+  
+}
+.d1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.d2{
+    background-color:chartreuse;
+    height: 100px;
+    width: 100px;
+}
+.d3{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.d4{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+.d5{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+.d6{
+    background-color: hotpink;
+    height: 100px;
+    width: 100px;
+}
+.d7{
+    background-color: lawngreen;
+    height: 100px;
+    width: 100px;
+}
+.d8{
+    background-color: tomato;
+    height: 100px;
+    width: 100px;
+}
+.d9{
+    background-color: khaki;
+    height: 100px;
+    width: 100px;
+}
+.d10{
+    background-color: gray;
+    height: 100px;
+    width: 100px;
+}
